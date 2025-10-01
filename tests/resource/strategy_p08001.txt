@@ -1,0 +1,116 @@
+{
+    "strategyParam":{
+        "reqNo":"Q741651487494668288",
+        "stepReqNo":"S741651487670829056",
+        "productCode":"08001",
+        "queryData":[
+            {
+                "id": 22079,
+                "parentId": 0,
+                "name": "楚亚飞",
+                "idno": "412727199309225417",
+                "phone": "17821981081",
+                "userType": "PERSONAL",
+                "authorStatus": "AUTHORIZED",
+                "fundratio": 0.0,
+                "applyAmo": 0.0,
+                "relation": "MAIN",
+                "extraParam": {
+                    "priority": 1.0,
+                    "passthroughMsg": null,
+                    "phantomRelation": false,
+                    "accounts": [
+                        {
+                            "bankAccount":"卡1",
+                            "bankName":"建设银行"
+                        }
+                    ],
+                    "comStrDate":null,
+                    "education":null,
+                    "industry":null,
+                    "industryName":null,
+                    "mamageAmt":null,
+                    "manageAddress":null,
+                    "passthroughMsg":null,
+                    "phantomRelation":false,
+                    "priority":1,
+                    "regCapAmt":null,
+                    "seasonOffMonth":null,
+                    "seasonOnMonth":null,
+                    "seasonable":null,
+                    "totalSalesLastYear":null
+                }
+            },
+            {
+                "id":2440,
+                "parentId":2439,
+                "name":"赣州市江珊里贸易有限公司",
+                "idno":"91360702MA36WCGP1U",
+                "userType":"COMPANY",
+                "fundratio":1,
+                "applyAmo":0,
+                "relation":"SHAREHOLDER",
+                "extraParam":{
+                    "accounts":[
+
+                    ],
+                    "comStrDate":null,
+                    "education":null,
+                    "industry":null,
+                    "industryName":null,
+                    "mamageAmt":null,
+                    "manageAddress":null,
+                    "passthroughMsg":null,
+                    "phantomRelation":false,
+                    "priority":2147483647,
+                    "regCapAmt":null,
+                    "seasonOffMonth":null,
+                    "seasonOnMonth":null,
+                    "seasonable":null,
+                    "totalSalesLastYear":null
+                }
+            },
+            {
+                "id":2441,
+                "parentId":2439,
+                "name":"章贡区宏业五金灯饰批发部",
+                "idno":"92360702MA3746DK37",
+                "userType":"COMPANY",
+                "fundratio":0,
+                "applyAmo":0,
+                "relation":"LEGAL",
+                "extraParam":{
+                    "accounts":[
+
+                    ],
+                    "comStrDate":null,
+                    "education":null,
+                    "industry":null,
+                    "industryName":null,
+                    "mamageAmt":null,
+                    "manageAddress":null,
+                    "passthroughMsg":null,
+                    "phantomRelation":false,
+                    "priority":2147483647,
+                    "regCapAmt":null,
+                    "seasonOffMonth":null,
+                    "seasonOnMonth":null,
+                    "seasonable":null,
+                    "totalSalesLastYear":null
+                }
+            }
+        ],
+        "preReportReqNo":"PR741651482847379456",
+        "single":false,
+        "outApplyNo":"Q741651482272759808",
+        "renewLoans":false,
+        "historicalBiz":[
+            {
+                "outApplyNo":"Q741635122113183744",
+                "loanDate":null
+            }
+        ],
+        "versionNo":"1.0"
+    },
+    "strategyResult":null
+}

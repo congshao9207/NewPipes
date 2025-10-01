@@ -1,0 +1,173 @@
+{
+    "appId": "0000000000",
+    "reqNo": "Q805874700239667200",
+    "stepReqNo": "S805874700285804544",
+    "productCode": "03002",
+    "queryData": [
+        {
+            "id": 2096662,
+            "parentId": 0,
+            "name": "张伟平",
+            "idno": "36213019770503063X",
+            "phone": "13807978470",
+            "userType": "PERSONAL",
+            "authorStatus": "AUTHORIZED",
+            "fundratio": 0.0000,
+            "applyAmo": 0.0000,
+            "relation": "MAIN",
+            "extraParam": {
+                "accounts": [
+
+                ],
+                "comStrDate": null,
+                "education": "大学",
+                "industry": null,
+                "industryName": null,
+                "mamageAmt": null,
+                "manageAddress": null,
+                "marryState": "MARRIED",
+                "passthroughMsg": {
+                    "custMgr": "0825",
+                    "loanType": "",
+                    "mainBrId": "1004004",
+                    "prodType": "PRD0001"
+                },
+                "phantomRelation": false,
+                "priority": 1.0,
+                "regCapAmt": null,
+                "relEntName": "佛山市中数电影放映有限公司",
+                "seasonOffMonth": null,
+                "seasonOnMonth": null,
+                "seasonable": null,
+                "strategy": "01",
+                "totalSalesLastYear": null
+            },
+            "isGrt": 0
+        },
+        {
+            "id": 2096668,
+            "parentId": 0,
+            "name": "张绚",
+            "idno": "36210119800614258X",
+            "phone": "18970785260",
+            "userType": "PERSONAL",
+            "authorStatus": "AUTHORIZED",
+            "fundratio": 0.0000,
+            "applyAmo": 0.0000,
+            "relation": "CONTXXX",
+            "extraParam": {
+                "accounts": [
+
+                ],
+                "comStrDate": null,
+                "education": null,
+                "industry": null,
+                "industryName": null,
+                "mamageAmt": null,
+                "manageAddress": null,
+                "marryState": "MARRIED",
+                "passthroughMsg": {
+                    "custMgr": "0825",
+                    "loanType": "",
+                    "mainBrId": "1004004",
+                    "prodType": "PRD0001"
+                },
+                "phantomRelation": false,
+                "priority": 2.0,
+                "regCapAmt": null,
+                "relEntName": null,
+                "seasonOffMonth": null,
+                "seasonOnMonth": null,
+                "seasonable": null,
+                "strategy": "01",
+                "totalSalesLastYear": null
+            },
+            "isGrt": 0
+        },
+        {
+            "id": 2096662,
+            "parentId": 0,
+            "name": "董玲玲",
+            "idno": "420281199001010525",
+            "phone": "13807978470",
+            "userType": "PERSONAL",
+            "authorStatus": "AUTHORIZED",
+            "fundratio": 0.0000,
+            "applyAmo": 0.0000,
+            "relation": "CHILDREN",
+            "extraParam": {
+                "accounts": [
+
+                ],
+                "comStrDate": null,
+                "education": "大学",
+                "industry": null,
+                "industryName": null,
+                "mamageAmt": null,
+                "manageAddress": null,
+                "marryState": "MARRIED",
+                "passthroughMsg": {
+                    "custMgr": "0825",
+                    "loanType": "",
+                    "mainBrId": "1004004",
+                    "prodType": "PRD0001"
+                },
+                "phantomRelation": false,
+                "priority": 1.0,
+                "regCapAmt": null,
+                "relEntName": "佛山市中数电影放映有限公司",
+                "seasonOffMonth": null,
+                "seasonOnMonth": null,
+                "seasonable": null,
+                "strategy": "02",
+                "totalSalesLastYear": null
+            },
+            "isGrt": 0
+        },
+
+        {
+            "id": 2096666,
+            "parentId": 0,
+            "name": "赣州市智晖文化传媒有限公司",
+            "idno": "91360703MA35HMAW53",
+            "userType": "COMPANY",
+            "fundratio": 0.6500,
+            "applyAmo": 0.0000,
+            "relation": "CONTROLLER",
+            "extraParam": {
+                "accounts": [
+
+                ],
+                "comStrDate": null,
+                "education": null,
+                "industry": null,
+                "industryName": null,
+                "mamageAmt": null,
+                "manageAddress": null,
+                "marryState": "UNKNOWN",
+                "passthroughMsg": {
+                    "custMgr": "0825",
+                    "loanType": "",
+                    "mainBrId": "1004004",
+                    "prodType": "PRD0001"
+                },
+                "phantomRelation": false,
+                "priority": 3.0,
+                "regCapAmt": 0.0,
+                "relEntName": null,
+                "seasonOffMonth": null,
+                "seasonOnMonth": null,
+                "seasonable": null,
+                "strategy": "01",
+                "totalSalesLastYear": null
+            },
+            "isGrt": 0
+        }
+    ],
+    "preBizDate": "",
+    "preReportReqNo": "",
+    "industry": "R8760",
+    "single": false,
+    "renewLoans": false,
+    "versionNo": "1.0"
+}

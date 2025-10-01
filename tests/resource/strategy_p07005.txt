@@ -1,0 +1,71 @@
+{
+    "strategyParam": {
+        "appId": "0000000000",
+        "reqNo": "Q825340369863606272",
+        "stepReqNo": "S825340376415109120",
+        "productCode": "07005",
+        "queryData": [
+            {
+                "id": 2198679,
+                "parentId": 0,
+                "name": "陈志高",
+                "idno": "350321197712025215",
+                "phone": "18178936666",
+                "userType": "PERSONAL",
+                "authorStatus": "AUTHORIZED",
+                "fundratio": 0.0,
+                "applyAmo": 0.0,
+                "relation": "MAIN",
+                "extraParam": {
+                    "passthroughMsg": {
+                        "creditParseReqNo": "CF852895445680320512"
+                    }
+                }
+            },
+            {
+                "id": 2198630,
+                "parentId": 0,
+                "name": "杨优生",
+                "idno": "362122197205152219",
+                "phone": "13870751190",
+                "userType": "PERSONAL",
+                "authorStatus": "AUTHORIZED",
+                "fundratio": 0.0,
+                "applyAmo": 0.0,
+                "relation": "SPOUSE",
+                "extraParam": {
+                    "passthroughMsg": {
+                        "creditParseReqNo": null
+                    }
+                }
+            },
+            {
+                "id": 2198680,
+                "parentId": 0,
+                "name": "黄石昌信商贸有限公司",
+                "idno": "4202010000854238",
+                "userType": "COMPANY",
+                "fundratio": 0.9,
+                "applyAmo": 0.0,
+                "baseType": "U_PER_LG_COMPANY",
+                "relation": "LEGAL",
+                "extraParam": {
+                    "passthroughMsg": {
+                        "creditParseReqNo": "Q852891407218802688"
+                    }
+                }
+            }
+        ],
+        "preReportReqNo": "",
+        "single": false,
+        "renewLoans": false,
+        "extraParam": {
+            "applyNoHistory": null,
+            "channelSource": 0,
+            "passthroughMsg": {
+
+            }
+        },
+        "versionNo": "1.0"
+    }
+}

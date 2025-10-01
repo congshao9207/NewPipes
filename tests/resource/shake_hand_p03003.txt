@@ -1,0 +1,169 @@
+{
+    "appId": "0000000000",
+    "reqNo": "Q802961454386020352",
+    "stepReqNo": "S802961454436352000",
+    "productCode": "03003",
+    "queryData": [
+        {
+            "id": 2072094,
+            "parentId": 0,
+            "name": "杨艳沉",
+            "idno": "340826197804072219",
+            "phone": "18616618959",
+            "userType": "PERSONAL",
+            "authorStatus": "AUTHORIZED",
+            "fundratio": 0.0000,
+            "applyAmo": 0.0000,
+            "relation": "MAIN",
+            "extraParam": {
+                "accounts": [
+
+                ],
+                "comStrDate": null,
+                "education": "未知",
+                "industry": null,
+                "industryName": null,
+                "mamageAmt": null,
+                "manageAddress": null,
+                "marryState": "MARRIED",
+                "passthroughMsg": {
+                    "custMgr": "0121",
+                    "loanType": "02",
+                    "mainBrId": "1001005",
+                    "prodType": "PRD0001"
+                },
+                "phantomRelation": false,
+                "priority": 1.0,
+                "regCapAmt": null,
+                "relEntName": "上海互凯建筑工程有限公司",
+                "seasonOffMonth": null,
+                "seasonOnMonth": null,
+                "seasonable": null,
+                "strategy": "01",
+                "totalSalesLastYear": null
+            },
+            "isGrt": 0
+        },
+        {
+            "id": 2072092,
+            "parentId": 0,
+            "name": "安徽金塘便利店连锁管理有限公司",
+            "idno": "91340825MA2NQ55U4K",
+            "userType": "COMPANY",
+            "fundratio": 0.0000,
+            "applyAmo": 0.0000,
+            "relation": "CONTROLLER",
+            "extraParam": {
+                "accounts": [
+
+                ],
+                "comStrDate": null,
+                "education": null,
+                "industry": null,
+                "industryName": null,
+                "mamageAmt": null,
+                "manageAddress": null,
+                "marryState": "UNKNOWN",
+                "passthroughMsg": {
+                    "custMgr": "0121",
+                    "loanType": "02",
+                    "mainBrId": "1001005",
+                    "prodType": "PRD0001"
+                },
+                "phantomRelation": false,
+                "priority": 3.0,
+                "regCapAmt": null,
+                "relEntName": null,
+                "seasonOffMonth": null,
+                "seasonOnMonth": null,
+                "seasonable": null,
+                "strategy": "01",
+                "totalSalesLastYear": null
+            },
+            "isGrt": 0
+        },
+        {
+            "id": 2072093,
+            "parentId": 0,
+            "name": "上海互凯建筑工程有限公司",
+            "idno": "91310118557402939D",
+            "phone": "18616618959",
+            "userType": "COMPANY",
+            "fundratio": 1.0000,
+            "applyAmo": 0.0000,
+            "relation": "CONTROLLER",
+            "extraParam": {
+                "accounts": [
+
+                ],
+                "comStrDate": null,
+                "education": null,
+                "industry": null,
+                "industryName": null,
+                "mamageAmt": null,
+                "manageAddress": null,
+                "marryState": "UNKNOWN",
+                "passthroughMsg": {
+                    "custMgr": "0121",
+                    "loanType": "02",
+                    "mainBrId": "1001005",
+                    "prodType": "PRD0001"
+                },
+                "phantomRelation": false,
+                "priority": 3.0,
+                "regCapAmt": 0.0,
+                "relEntName": null,
+                "seasonOffMonth": null,
+                "seasonOnMonth": null,
+                "seasonable": null,
+                "strategy": "01",
+                "totalSalesLastYear": null
+            },
+            "isGrt": 0
+        },
+        {
+            "id": 2072096,
+            "parentId": 0,
+            "name": "上海铁泰建设科技有限公司",
+            "idno": "91310109MA1G5W6N4U",
+            "userType": "COMPANY",
+            "fundratio": 0.6800,
+            "applyAmo": 0.0000,
+            "relation": "CONTROLLER",
+            "extraParam": {
+                "accounts": [
+
+                ],
+                "comStrDate": null,
+                "education": null,
+                "industry": null,
+                "industryName": null,
+                "mamageAmt": null,
+                "manageAddress": null,
+                "marryState": "UNKNOWN",
+                "passthroughMsg": {
+                    "custMgr": "0121",
+                    "loanType": "02",
+                    "mainBrId": "1001005",
+                    "prodType": "PRD0001"
+                },
+                "phantomRelation": false,
+                "priority": 3.0,
+                "regCapAmt": null,
+                "relEntName": null,
+                "seasonOffMonth": null,
+                "seasonOnMonth": null,
+                "seasonable": null,
+                "strategy": "02",
+                "totalSalesLastYear": null
+            },
+            "isGrt": 0
+        }
+    ],
+    "preBizDate": "",
+    "preReportReqNo": "",
+    "industry": "E4710",
+    "single": false,
+    "renewLoans": false,
+    "versionNo": "1.0"
+}
